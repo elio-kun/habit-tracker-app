@@ -4,10 +4,13 @@ This Habit Tracker App allows users to create, manage, and track their habits.
 ## Installation
 
 1. Clone the repository:
-   git clone [https://github.com/elio-kun/Habit_Tracker.git](https://github.com/elio-kun/habit-tracker-app)
-   cd Habit_Tracker
+   git clone https://github.com/elio-kun/habit-tracker-app.git
 
-2. Unzip the .7z archive
+2. Navigate to the project directory:
+   cd habit-tracker-app
 
-3. Run the main script:
+3. Extract the Habit_Tracker.7z archive:
+   Use a tool like 7-Zip to extract the Habit_Tracker.7z file into the project directory.
+   
+5. Run the application:
    python main.py
