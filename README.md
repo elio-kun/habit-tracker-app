@@ -34,17 +34,19 @@ The project is organized into several key directories:
 ## Installation
 
 1. **Clone the repository:**
+   First, navigate to the desired directory. Then run the **git clone** command:
 
-   ``git clone https://github.com/elio-kun/habit-tracker-app.git``
-
-   ``cd habit-tracker``
+   ```cd your/desired/directory
+   git clone https://github.com/elio-kun/habit-tracker-app.git
+   ```
+   This will create a new named **habit-tracker-app** in your current directory.
 
 3. **Run the application:**
    Navigate to the 'src' directory and run the __main__.py script:
 
-   ``cd src``
-
-   ``python __main__.py``
+   ```bash
+   cd habit-tracker-app/src
+   __main__.py
 
 ## Usage
 - **Navigate the App:** Enter numbers corresponding to available options. Follow the prompts to move through menus and select actions.
