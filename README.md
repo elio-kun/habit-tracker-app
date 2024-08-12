@@ -36,17 +36,18 @@ The project is organized into several key directories:
 1. **Clone the repository:**
    First, navigate to the desired directory. Then run the **git clone** command:
 
-   ```cd your/desired/directory
+   ```bash
+   cd your/desired/directory
    git clone https://github.com/elio-kun/habit-tracker-app.git
    ```
-   This will create a new named **habit-tracker-app** in your current directory.
+   This will create a new folder named **habit-tracker-app** in your current directory.
 
 3. **Run the application:**
-   Navigate to the 'src' directory and run the __main__.py script:
+   Navigate to the 'src' directory. Then execute the __main__.py script:
 
    ```bash
    cd habit-tracker-app/src
-   __main__.py
+   python __main__.py
 
 ## Usage
 - **Navigate the App:** Enter numbers corresponding to available options. Follow the prompts to move through menus and select actions.
@@ -56,8 +57,6 @@ The project is organized into several key directories:
 
 ## Testing
 The project includes a suite of unit tests to ensure that the critical functionalities work as expected. To run the tests:
-
-``cd tests``
 
 ``python -m unittest test_habits.py``
 
