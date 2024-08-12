@@ -1,0 +1,61 @@
+{
+    "names": [
+        "James", "Arthur", "William", "Henry", 
+        "Elizabeth", "Victoria", "Catherine", "Margaret", 
+        "Morgan", "Riley", "Jordan", "Taylor", 
+        "Alex", "Casey", "Sam", "Kris"
+    ],
+    "appearances": [
+        "Very tall. They assure you that they don't look down on you.",
+        "Short and round. They look like Po from Kung Fu Panda.",
+        "Elegant and poised, with a sleek uniform. They're a bit intimidating.",
+        "Casual, with tousled hair. Absolutely normal-looking.",
+        "For some reason, they dress like Sherlock Holmes.",
+        "The most stylish person you've ever seen. They used to work for Miranda Priestly.",
+        "Incredibly chill-looking. Like a buddhist monk."
+    ],
+    "personalities": {
+        "cold_collected_strict": {
+            "flag": "cold",
+            "description": "Cold, collected, strict but fair.",
+            "replicas": [
+                "I expect nothing less than your best. Do not disappoint.",
+                "Why are you talking to me? Stay focused.",
+                "Hm? You are afraid of me? Let's keep it this way.",
+                "I trust you had your eight hours of sleep. Efficiency in the day begins with discipline in the night.",
+                "I highly recommend you to take up reading instead of spending time online. Knowledge is the one investment that always pays dividends.",
+                "I once heard a joke about efficiency, but it was too long-winded to repeat.",
+                "Technology should be a tool, not a distraction. Use it wisely, or it will control you.",
+                "Life throws challenges your way not to halt your progress but to sharpen your resolve. Do not waver."
+            ]
+        },
+        "cheerful_talkative_excited": {
+            "flag": "cheerful",
+            "description": "Cheerful, talkative, and excited!",
+            "replicas": [
+                "YAHOOO! YOU CAN DO THIS, LET'S GOOO!",
+                "Hey, looking good today! The world is waiting for you — let's make things amazing!",
+                "Books are like little adventures you can carry in your pocket. They're so exciting!",
+                "It's raining today! Perfect weather to dance around the house while doing some chores, don't you think?",
+                "Why did the scarecrow win an award? Because he was outstanding in his field! Oh come on, that's my best material!",
+                "I'm so excited to see you crush your goals! *wipes a tear*",
+                "Come on, you eat challenges for breakfast! Add little sugar, and boom — piece of cake!",
+                "When life gives you lemons, find any way to sell them for some cash."
+            ]
+        },
+        "friendly_calm_encouraging": {
+            "flag": "friendly",
+            "description": "Friendly, calm, and encouraging.",
+            "replicas": [
+                "Hey there!~ Take your time, no need to rush. The world will be here when you're ready.",
+                "I believe in you, take it one step at a time. Remember, every small step counts!",
+                "I'm glad to see you enjoying your hobbies. Remember, it's not about how fast you finish but how much you enjoy the journey.",
+                "It's raining today, but that's just nature's way of reminding us that growth sometimes needs a little water. Stay hydrated!",
+                "Why don't skeletons fight each other? They don't have the guts! Haha, get it?",
+                "I'm here to support you all the way. Whatever it is, we'll get through this together.",
+                "Are you doing okay? Just remember to take breaks and enjoy the simple things too.",
+                "Challenges are like puzzles - they might seem tough at first, but with patience, you'll find the solution."
+            ]
+        }
+    }
+}

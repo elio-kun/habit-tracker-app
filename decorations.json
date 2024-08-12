@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Couch",
+        "room": "Living Room",
+        "state": "Old",
+        "exp": 4.0
+    },
+    {
+        "name": "Plant",
+        "room": "Living Room",
+        "state": "Old",
+        "exp": 4.0
+    },
+    {
+        "name": "Window",
+        "room": "Living Room",
+        "state": "Good",
+        "exp": 32
+    },
+    {
+        "name": "Small Lamp",
+        "room": "Living Room",
+        "state": "Normal",
+        "exp": 20.0
+    },
+    {
+        "name": "Table",
+        "room": "Living Room",
+        "state": "Normal",
+        "exp": 16
+    },
+    {
+        "name": "Bed",
+        "room": "Bedroom",
+        "state": "Old",
+        "exp": 0
+    },
+    {
+        "name": "Bedside Lamp",
+        "room": "Bedroom",
+        "state": "Old",
+        "exp": 0
+    },
+    {
+        "name": "Carpet",
+        "room": "Bedroom",
+        "state": "Old",
+        "exp": 0
+    },
+    {
+        "name": "Desk",
+        "room": "Bedroom",
+        "state": "Old",
+        "exp": 0
+    },
+    {
+        "name": "Small Painting",
+        "room": "Bedroom",
+        "state": "Old",
+        "exp": 0
+    },
+    {
+        "name": "Working Desk",
+        "room": "Home Office",
+        "state": "Old",
+        "exp": 0
+    },
+    {
+        "name": "Bookshelf",
+        "room": "Home Office",
+        "state": "Old",
+        "exp": 0
+    },
+    {
+        "name": "Big Lamp",
+        "room": "Home Office",
+        "state": "Old",
+        "exp": 0
+    },
+    {
+        "name": "Big Painting",
+        "room": "Home Office",
+        "state": "Old",
+        "exp": 2.5
+    },
+    {
+        "name": "Wall Shelves",
+        "room": "Home Office",
+        "state": "Old",
+        "exp": 0
+    }
+]
